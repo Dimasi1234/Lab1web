@@ -1,7 +1,7 @@
 # 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 Jawab : tidak terjadi error saat penulisan tag di tugas pembuatan web yang saya kerjakan. Dibawah ini adalah perintah dan hasilnya
-![Screenshot (30)](https://github.com/user-attachments/assets/301e9269-320d-4760-ae5c-951f8a59eef0)
-![Screenshot (31)](https://github.com/user-attachments/assets/d1b2527a-cdaa-4662-9f3e-017bcff74cba)
+![ss2 png](https://github.com/user-attachments/assets/788cda53-d405-45f5-a1dd-1bf701f994dd)
+![ss1 png](https://github.com/user-attachments/assets/456a0646-7709-4796-b444-98bc55916f0c)
 
 # 2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
 jawab : Tag p digunakan untuk membuat paragraf baru sedangkan tag br digunakan untuk menyisipkan baris baru tanpa membuat paragraf baru. Dibawah ini contohnya. Terdapat perbedaan dimana tag p memiliki jarak pada kalimat saat dibuat tag yang baru, sedangkan tidak ada jarak anatara kalimat pada tag br saat dibuat tag yang baru.
